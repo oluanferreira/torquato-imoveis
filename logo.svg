@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 220" role="img" aria-labelledby="title desc">
+  <title id="title">Torquato Imóveis</title>
+  <desc id="desc">Marca Torquato Imóveis em azul primário</desc>
+  <g fill="none" stroke="#285EA7" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M35 78h175"/>
+    <path d="M49 74c13-37 42-57 74-57s61 20 74 57"/>
+    <path d="M65 84c7-23 28-39 58-39 29 0 51 16 58 39"/>
+    <circle cx="123" cy="89" r="25"/>
+    <path d="M77 110l46 82 46-82"/>
+    <path d="M123 114v78"/>
+    <path d="M35 110h65M146 110h64"/>
+  </g>
+  <g fill="#285EA7" font-family="Arial, Helvetica, sans-serif">
+    <text x="245" y="105" font-size="78" font-weight="700" letter-spacing="1">TORQUATO</text>
+    <text x="250" y="172" font-size="48" font-weight="400" letter-spacing="17">IMÓVEIS</text>
+    <text x="720" y="170" font-size="23" font-weight="500">CRECI-PJ: 2110</text>
+  </g>
+</svg>
